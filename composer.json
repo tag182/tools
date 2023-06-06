@@ -1,0 +1,20 @@
+{
+    "name": "tag182/php-tools",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tag182\\PhpTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tag182",
+            "email": "super.tag182@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": { 
+        "php": "^8.0"
+    }
+}
